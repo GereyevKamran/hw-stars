@@ -1,0 +1,19 @@
+{
+  "name": "hw-stars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GereyevKamran/hw-stars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GereyevKamran/hw-stars/issues"
+  },
+  "homepage": "https://github.com/GereyevKamran/hw-stars#readme"
+}
